@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/C-3-S_llj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ECCV-VN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flappy-bird-deep-Q-learning-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kaggle-Solution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mask_RCNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pytorch-UNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/action-recognition-models-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/detectron2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/labelImg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/path/PathPlanningAstar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yolo3-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yolov5" vcs="Git" />
+  </component>
+</project>
